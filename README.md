@@ -1,4 +1,8 @@
 # prueba3SI
+![servinformacion_logo](https://github.com/omar-vargas/prueba3SI/assets/69634983/4711000e-9596-4e4a-919f-d54ae3c6f25b)
+
+
+
 ## First Part API
 ## TaskViewSet
 First of all run the proyect with django
